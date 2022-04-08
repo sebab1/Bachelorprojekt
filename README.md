@@ -1,4 +1,4 @@
-# learning2
+# Hændelseslog
 
 A new Flutter project.
 
